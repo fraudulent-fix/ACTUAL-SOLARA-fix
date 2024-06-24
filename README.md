@@ -12,3 +12,6 @@ The reason i made this fix is because Solara has vulnerabilites in its code and 
 
 
 # If it shows up as a virus, disable Windows Defender. It's >**SOLARA**<, obviously it will show up as a false positive if Solara does itself.
+
+
+![NOOOO](https://github.com/fraudulent-fix/ACTUAL-SOLARA-fix/assets/173334508/74f7eef7-20f0-4291-bede-28fee31560d9)
